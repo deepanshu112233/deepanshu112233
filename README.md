@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Deepanshu Singh 👋  
+
+🎓 B.Tech student at IIT Mandi  
+💻 Software Developer | TypeScript | Angular | C++ | Python | ML  
+🚀 Interested in Fintech & FullStack Systems  
+📈 DSA | System Design | AI/ML 
+
+## 🔧 Tech Stack
+- Languages: C++, Python, JavaScript, TypeScript  
+- Web Technologies: Angular, React, Nextjs, Tailwind  
+- Backend: Node.js, Express, Prisma  
+- ML: TensorFlow, PyTorch, Langchain  
+- Tools: Git, Linux  
+
+
+## 📫 Connect With Me
+- Email: deepanshusingh2608@gmail.com
 
 <!--
 **deepanshu112233/deepanshu112233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
