@@ -1,6 +1,6 @@
 # Hi, I'm Deepanshu Singh 👋  
 
-🎓 B.Tech student at IIT Mandi  
+🎓 Graduated from IIT Mandi in Computer Science & Engineering (2025 Batch)  
 💻 Software Developer | TypeScript | Angular | C++ | Python | ML  
 🚀 Interested in Fintech & FullStack Systems  
 📈 DSA | System Design | AI/ML 
