@@ -9,8 +9,9 @@
 - Languages: C++, Python, JavaScript, TypeScript  
 - Web Technologies: Angular, React, Nextjs, Tailwind  
 - Backend: Node.js, Express, Prisma  
-- ML: TensorFlow, PyTorch, Langchain  
-- Tools: Git, Linux  
+- ML/AI: TensorFlow, PyTorch, Langchain
+- Database: MySQL, MongoDB, Postres 
+- Tools: Git, Linux
 
 
 ## 📫 Connect With Me
