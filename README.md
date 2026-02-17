@@ -10,7 +10,7 @@
 - Web Technologies: Angular, React, Nextjs, Tailwind  
 - Backend: Node.js, Express, Prisma  
 - ML/AI: TensorFlow, PyTorch, Langchain
-- Database: MySQL, MongoDB, Postres 
+- Database: MySQL, MongoDB, Firebase 
 - Tools: Git, Linux
 
 
